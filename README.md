@@ -13,4 +13,4 @@ Usage:
 - Controller and hotkey bindings are configured in-app
 ## Screenshot
 
-![POLProcessCycler v2.0.0](assets/sample-ui.png)
+![POLProcessCycler v2.0.0](sample-ui.png)
