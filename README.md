@@ -1,7 +1,7 @@
 This Windows 10/11 ultility allows for tabbing between characters in Final Fantasy XI.
 1. Choose which characters will be cycled when the hot keys are used.
 2. Choose the order in which the characters will be cycled through.
-3. Select which preferred hot keys will do the cylcing.
+3. Select which preferred hot keys will do the cycling.
 4. Select Start/Stop to allow the hot keys to work.
 
 NOTEs: 
